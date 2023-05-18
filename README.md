@@ -7,7 +7,7 @@ In this project it is shown that how to fine-tune BERT for NER.
   - transformers
   - seqeval
 ***
-You can download the Persian corpus from the following link:
+Data availability:
 
 Train corpus:
 https://drive.google.com/file/d/15D1XK2CNLTSPHVtPAotgBQDsPvposh_W/view?usp=sharing
