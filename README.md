@@ -1,11 +1,13 @@
 # Named Entity Recognition (NER) with BERT
-Coding environment: **Google Colaboratory**
 
-In this project I show that how to fine-tune BERT for NER.
+**Coding environment:** Google Colaboratory
 
-# Requirements
-  - transformers
-  - seqeval
+In this project, I demonstrate how to fine-tune BERT for Named Entity Recognition (NER).
+
+## Requirements
+- `transformers`
+- `seqeval`
+
 ***
 Data availability:
 
